@@ -1,0 +1,1 @@
+<h1><?php echo e($title); ?></h1><?php /**PATH C:\xampp\htdocs\todo\resources\views/companyemail.blade.php ENDPATH**/ ?>
